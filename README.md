@@ -2,7 +2,7 @@
 
 A simple yet functional weather dashboard that allows users to get a 5-day weather forecast based on city name or their current location.
 
-![image](https://github.com/aperezgomez/weather-app/assets/120771676/f8703d67-91ce-40bb-ab75-8b160ea96ac5)
+![image](https://github.com/aperezgomez/weather-app/assets/120771676/61ccdbe5-c00f-42cf-82d4-18e2fae7be1f)
 
 
 ## Features
