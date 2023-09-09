@@ -32,10 +32,3 @@ A simple yet functional weather dashboard that allows users to get a 5-day weath
 
 The app uses OpenWeatherMap API. Ensure you have your API key. If you don't have one, register at [OpenWeatherMap](https://openweathermap.org/api) and replace `API_KEY` in the `script.js` file with your own key.
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE.md](./LICENSE.md) file for details.
